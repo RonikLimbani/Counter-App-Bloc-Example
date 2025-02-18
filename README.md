@@ -1,16 +1,3 @@
-# counterapp
+# Counter-App-Bloc-Example
+BLoC stands for Business Logic Components. It aims to separate the application’s business logic from the User Interface, making the application code more unambiguous, scalable, and testable.
 
-Example of how to create a CounterBloc to implement the classic Flutter Counter app.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
